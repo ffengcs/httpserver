@@ -1,0 +1,13 @@
+
+namespace WebServer{
+class HttpServer{
+
+public:
+
+	HttpServer(){}
+	~HttpServer(){}
+
+private:
+};
+}
+
