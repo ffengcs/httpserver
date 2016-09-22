@@ -1,3 +1,10 @@
 # httpserver
-a simple http server
+
+
+#linux
+
+mkdir build
+cd build
+cmake ..
+./httpserver
 
